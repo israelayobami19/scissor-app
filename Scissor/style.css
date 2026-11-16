@@ -316,6 +316,10 @@ p {
   list-style-image: url(./component/check-circle\ \(1\).svg);
 }
 
+.pro .card_p, .pro .p1 {
+  color: var(--white);
+}
+
 .sect5_btn {
   margin: auto;
   padding: 40px;
